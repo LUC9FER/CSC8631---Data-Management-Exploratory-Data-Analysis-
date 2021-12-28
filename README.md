@@ -1,2 +1,2 @@
-# CSC8631---Data-Management-Exploratory-Data-Analysis-
-Coursework For The MSc Data Science From Newcastle University
+#Exploratory Data Analysis
+EDA Porject Done While Studying MSc Data Science At Newcastle University
