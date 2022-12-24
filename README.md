@@ -1,2 +1,2 @@
 # Exploratory Data Analysis
-EDA Porject Done While Studying MSc Data Science At Newcastle University
+EDA Projects Done While Studying MSc Data Science At Newcastle University. 
